@@ -1,1 +1,1 @@
-# teamITI
+treasure hunt game (STRUCTURE)
